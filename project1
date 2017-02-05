@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Aniello's Website</title>
+</head>
+<body>
+	<h1>Aniello's Website</h1>
+		<section id="navigation">
+		<ul>
+			<li><a href="D:/IIT/ITMD361/homework/ITMD-361/resume.html">Resume</a></li>
+			<li><a href="D:/IIT/ITMD361/homework/ITMD-361/school.html">School</a></li>
+		</ul>
+		</section>
+			
+	<p> Hello World! My name is Aniello Scartozzi. This is my first website! I am a huge tech enthusiast
+who loves everything about technology. I am 	</p>
+</body>
+</html>
